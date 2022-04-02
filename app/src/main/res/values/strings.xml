@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assessment1Mobpro</string>
+    <string name="pertanyaan">How is your day?</string>
+    <string name="nama">Nama :</string>
+    <string name="hintNama">Nama</string>
+    <string name="bad">Bad</string>
+    <string name="good">Good</string>
+    <string name="send">Send</string>
+</resources>
